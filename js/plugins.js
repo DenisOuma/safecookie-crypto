@@ -10,7 +10,7 @@ $(document).ready(function () {
     }
 })
 
-/*========== ADD SOLID CLASS TO NAVBAR WHEN TOGGLED ==========*/
+/*========== Button ==========*/
 
 
 /*========== CLOSE MOBILE MENU ON CLICK & SMOOTH SCROLL TO LINK ==========*/
