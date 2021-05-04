@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Cookie&display=swap');
 /*-- iPhone X Remove Gutters --*/
 html {
   padding: env(safe-area-inset);
@@ -15,9 +15,19 @@ body {
   color: #505962;
   /* background-color: #000; */
 }
+.navbar-brand{
+  font-family: 'Cookie', cursive;
+  font-size: 2rem;
+  color: #f88e11;
+}
+.navbar-brand span {
+  color: #3C2616;
+  font-size: 2.5rem;
 
+}
 .text-nuno {
   color: red;
+  font-family: 'Cookie', cursive;
 }
 
 /*--- Nav Scrolling Offset --*/
