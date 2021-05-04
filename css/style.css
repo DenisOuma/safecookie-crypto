@@ -222,6 +222,21 @@ a.btn {
 	background: -moz-linear-gradient(top,  #f47a20,  #faa51a);
 	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#f47a20', endColorstr='#faa51a');
 }
+
+.caption h1{
+  font-size: 4.5rem;
+  letter-spacing: .3rem;
+  text-shadow: .1rem .1rem .8rem #f47a20;
+  padding-bottom: 1rem;
+}
+.caption h3{
+  font-size: 2.5rem;
+  text-shadow: .1rem .1rem .5rem #f47a20;
+  padding-bottom: 2rem;
+}
+.btn{
+  margin-right: 20px;
+}
 /*============= FEATURES SECTION =============*/
 
 /*===== FIXED BACKGROUND IMG DARK =====*/
